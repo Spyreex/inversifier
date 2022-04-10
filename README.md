@@ -1,8 +1,8 @@
 ﻿# Inversifier
 
 How to use:
-Create the folder "input" and simply put any number of .osu files in there
-Then start inversifier.exe
+- Create the folder "input" and simply put any number of .osu files in there
+- Then start inversifier.exe
 
 Settings:
 - Minimum LN Length (in ms)
