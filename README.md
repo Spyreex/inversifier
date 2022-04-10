@@ -1,7 +1,8 @@
 ﻿# Inversifier
 
 How to use:
-- Create the folder "input" and simply put any number of .osu files in there
+- Create the "input" folder and simply put any number of .osu files in there
+- Create the "output" folder
 - Then start inversifier.exe
 
 Settings:
